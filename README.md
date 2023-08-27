@@ -12,6 +12,8 @@ https://github.com/kosuri-indu/Honey-bee-breeding/assets/118645569/ebf16c64-ed61
 - Divya N. (base code) - 22WH1A6616
 - D. Lasya (Latex presentation) - 22WH1A6617
 - K. Laxmi Prasanna (Latex presentation) - 22WH1A6620
+
+College : BVRIT Hyderabad College of Engineering for Women
   
 ## Tech Stack
 - Python
