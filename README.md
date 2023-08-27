@@ -7,7 +7,7 @@ This project involves a graphical user interface (GUI) for analyzing honeycomb c
 https://github.com/kosuri-indu/Honey-bee-breeding/assets/118645569/ebf16c64-ed61-4a10-973a-da8e893188bf
 
 ## Team Members
-- Kosuri L Indu (the whole GUI, related functions and base code) - 22WH1A6619
+- Kosuri L Indu (the whole GUI, related functions and base code) - 22WH1A6619 -TEAM LEAD
 - Keavalya V. (Design) - 22WH1A6618
 - Divya N. (base code) - 22WH1A6616
 - D. Lasya (Latex presentation) - 22WH1A6617
