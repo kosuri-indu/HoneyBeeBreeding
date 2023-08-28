@@ -1,7 +1,7 @@
 # Honey-bee-breeding
 
 ## Description
-This project involves a graphical user interface (GUI) for analyzing honeycomb cell distances in the context of honey bee breeding. The GUI is developed using Python's Tkinter library, providing an intuitive way to calculate and visualize shortest paths between labeled cells on a honeycomb structure. The program includes features such as input validation, distance calculation, path tracing, and GUI components for user-friendly interaction. 
+This project involves a graphical user interface (GUI) for analyzing honeycomb cell distances in the context of honey bee breeding. The GUI is developed using Python's Tkinter library, providing an intuitive way to calculate and visualize shortest paths between labeled cells on a honeycomb structure. The program includes features such as input validation, distance calculation, path tracing, and GUI components for user-friendly interactions. 
 
 ## Video of the GUI
 https://github.com/kosuri-indu/Honey-bee-breeding/assets/118645569/ebf16c64-ed61-4a10-973a-da8e893188bf
