@@ -5,7 +5,7 @@ from pygame import mixer
 import math
 import random
 
-class Honey_Bee_Breedings:
+class Honey_Bee_Breeding:
     base_case = {
         0: [-1, 0],
         1: [0, 1],
