@@ -5,11 +5,6 @@ This project involves a graphical user interface (GUI) for analyzing honeycomb c
 
 ## Video of the GUI
 https://github.com/kosuri-indu/Honey-bee-breeding/assets/118645569/ebf16c64-ed61-4a10-973a-da8e893188bf
-
-## Contributor
-Kosuri L Indu (Myself)
-
-College : BVRIT Hyderabad College of Engineering for Women
   
 ## Tech Stack
 - Python
